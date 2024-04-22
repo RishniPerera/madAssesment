@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- screen2_loginpage_admin_ strings -->
+	<!-- screen3__loginpage_reg_users strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="login_string">Login </string>
+	<string name="email_string">Email</string>
+	<string name="password_string">Password</string>
+	<string name="login_ek1_string">Login</string>
+	<string name="admin_string">Admin</string>
+
+
+
+<!-- screen1_homepage strings -->
+
+
+<string name="wisdom_grove_institute_string">Wisdom Grove Institute</string>
+<string name="___nurturing_minds__shaping_futures__string">" Nurturing Minds, Shaping Futures"</string>
+
+<string name="guest_string">GUEST</string>
+<string name="login_as_a_string">Login as a</string>
+<string name="or_string">or</string>
+<string name="register_now_string">Register Now</string>
+
+
+<!-- registration_2 strings -->
+<string name="vspacer_string"></string>
+<string name="register_string">Register</string>
+<string name="mobile_number_string">Mobile Number</string>
+<string name="profile_picture_string">Profile Picture</string>
+<string name="xxxxxxxxxx_string">xxxxxxxxxx</string>
+<string name="date_of_birth_string">Date of Birth</string>
+<string name="sign_up_string">Skip</string>
+<string name="register_ek1_string">Register</string>
+<string name="take_picture_string">Take Picture</string>
+<string name="upload_picture_string">Upload Picture</string>
+<string name="address_string"> Address</string>
+<string name="skip_string">skip</string>
+
+		<!-- course_list_page strings -->
+		<string name="welcome_string">Welcome</string>
+		<string name="ready_to_take_the_next_step_in_your_education_journey__register_now_to_apply_for_our_exciting_short_coursers__string">Ready to take the next step in youreducation journey?Register now to apply for our exciting  short coursers!</string>
+		<string name="courses_string">Courses</string>
+		<string name="branches_string">Branches</string>
+		<string name="fees_string">Fees</string>
+		<string name="date_string">Date</string>
+		<string name="web_design_string">Web Design</string>
+		<string name="colombo_branch_string">Colombo Branch</string>
+		<string name="rs_20000_00_string">RS 20000.00</string>
+		<string name="rs_15000_00_string">RS 15000.00</string>
+		<string name="python_string">Python </string>
+		<string name="kandy_branch_string">Kandy Branch</string>
+		<string name="information_systems_for_beginners_course_fee__lkr_30000_00_string">Information Systems for BeginnersCourse fee: LKR 30000.00</string>
+		<string name="course_highlights_string">Course Highlights</string>
+
+
+
+		<!-- google_map strings -->
+		<string name="sign_up_ek1_string">Kottawa</string>
+		<string name="sign_up_ek2_string">Negombo</string>
+		<string name="sign_up_ek3_string">Piliyandala</string>
+		<string name="sign_up_ek4_string">Kegalle</string>
+		<string name="sign_up_ek5_string">Jaffna</string>
+		<string name="sign_up_ek6_string">Kandy</string>
+		<string name="sign_up_ek7_string">Mathara</string>
+		<string name="view_in_google_maps_string">View in Google Maps</string>
+		<string name="locate_string">Locate</string>
+		<string name="home_string">Select Branch</string>
+		<string name="search_in_map_string">Search in Map</string>
+
+
+
+
+<!-- course_registration_page strings -->
+<string name="text_string"> Web Design</string>
+<string name="your_promotion_code_is_ach5142_string">Your Promotion Code is ACH5142</string>
+<string name="cost___rs__30000_00_duration___10_days_starting_date___15_march_2024_registration_due_date___05_march_2024_conducting_branches___colombo___kandy_string">Cost           -      Rs. 30000.00Duration  -       10 DaysStarting Date    -   15 March 2024Registration Due Date -  05 March 2024Conducting Branches  - Colombo / Kandy </string>
+<string name="text_ek1_string"> Information Systems for Beginners</string>
+
+<!-- screen7_notification strings -->
+<string name="notifications_string">Notifications</string>
+<string name="dd_mm_yyyy_string">DD/MM/YYYY</string>
+<string name="nethmini_fernando_string">Nethmini Fernando</string>
+<string name="wisdom_grove__colombo_string">Wisdom Grove -Colombo</string>
+<string name="_0711890456_string">0711890456</string>
+<string name="r_s__perera_string">R.S. Perera</string>
+<string name="_15_feb_string">15 Feb</string>
+<string name="_14_mar_string">14 Mar</string>
+<string name="_26_mar_string">26 Mar</string>
+<string name="sat_string">Sat</string>
+<string name="sun_string">Sun</string>
+<string name="now_you_can_apply_for_the_courses_available_on_our_app_string">Now you can apply for the courses available on our app</string>
+<string name="congratulations__you_got_a_promotion_code_for_your_course_fee_string">Congratulations! you got a promotion code for your course fee</string>
+<string name="please_resend_your_code_to_verify_your_account_string">please resend your code to verify your account</string>
+<string name="discount_amount_was_added_string">discount amount was added </string>
+<string name="please_check_your_email_address_before_loging_string">please check your email address before loging </string>
+
+<!-- screen8_admin_dashboard strings -->
+<string name="admin_dashboard_string">Admin Dashboard</string>
+<string name="kevin_perera_string">Kevin Perera </string>
+<string name="add_new_short_courses_string">add new short courses  </string>
+<string name="version_controls_string">version controls  </string>
+<string name="view_user_list_string">view user list</string>
+<string name="set_registration_deadlines_string">set registration deadlines</string>
+<string name="edit_branch_details_string">edit branch details  </string>
+
+<!-- screen9_email_verification strings -->
+<string name="email_verification_string">Email Verification</string>
+<string name="send_verification_code_string">send verification code</string>
+<string name="please_enter_the_4_digit_code_we_sent_you_on_your_email_address___string">please enter the 4 digit code we sent you on your email address .</string>
+<string name="resend_code_string">Resend code</string>
+<string name="_2_3_4_5_string">2 3 4 5</string>
+
+<!-- screen10_confirmation strings -->
+<string name="confirm_my_email_string">Confirm my email</string>
+<string name="registration_sucessful___string">Registration Sucessful !</string>
+<string name="resend_email_string">Resend email</string>
+<string name="an_email_confirmation_has_been_sent_to_your_registered_email_address___string">An email confirmation has been sent to your registered email address !</string>
+<string name="your_registration_for_the_course_has_been_successfully_completed__string">Your registration for the course has been successfully completed.</string>
+</resources>
+

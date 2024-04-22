@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- screen2_loginpage_admin_ styles -->
+
+	<style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+	</style>
+
+<!-- screen3__loginpage_reg_users styles -->
+
+<style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+	<item name="colorPrimary">@color/colorPrimary</item>
+	<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	<item name="colorAccent">@color/colorAccent</item>
+</style>
+<!-- screen1_homepage styles -->
+
+<!-- registration_2 styles -->
+<style name="AppTheme3" parent="Theme.AppCompat.Light.DarkActionBar">
+	<item name="colorPrimary">@color/colorPrimary</item>
+	<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	<item name="colorAccent">@color/colorAccent</item>
+</style>
+
+
+<!-- registration styles -->
+
+<style name="AppTheme4" parent="Theme.AppCompat.Light.DarkActionBar">
+	<item name="colorPrimary">@color/colorPrimary</item>
+	<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	<item name="colorAccent">@color/colorAccent</item>
+</style>
+
+
+		<!-- course_list_page styles -->
+		<style name="AppTheme5" parent="Theme.AppCompat.Light.DarkActionBar">
+			<item name="colorPrimary">@color/colorPrimary</item>
+			<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+			<item name="colorAccent">@color/colorAccent</item>
+		</style>
+
+
+		<!-- google_map styles -->
+
+	<style name="AppTheme6" parent="Theme.AppCompat.Light.DarkActionBar">
+			<item name="colorPrimary">@color/colorPrimary</item>
+			<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+			<item name="colorAccent">@color/colorAccent</item>
+		</style>
+
+<!-- course_registration_page styles -->
+
+<style name="AppTheme7" parent="Theme.AppCompat.Light.DarkActionBar">
+	<item name="colorPrimary">@color/colorPrimary</item>
+	<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	<item name="colorAccent">@color/colorAccent</item>
+</style>
+
+<!-- screen7_notification styles -->
+<style name="AppTheme8" parent="Theme.AppCompat.Light.DarkActionBar">
+	<item name="colorPrimary">@color/colorPrimary</item>
+	<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	<item name="colorAccent">@color/colorAccent</item>
+</style>
+
+
+		<!-- screen8_admin_dashboard styles -->
+
+		<style name="AppTheme9" parent="Theme.AppCompat.Light.DarkActionBar">
+			<item name="colorPrimary">@color/colorPrimary</item>
+			<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+			<item name="colorAccent">@color/colorAccent</item>
+		</style>
+
+		<!-- screen9_email_verification styles -->
+		<style name="AppTheme10" parent="Theme.AppCompat.Light.DarkActionBar">
+			<item name="colorPrimary">@color/colorPrimary</item>
+			<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+			<item name="colorAccent">@color/colorAccent</item>
+		</style>
+
+<!-- screen10_confirmation styles -->
+
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+	<item name="colorPrimary">@color/colorPrimary</item>
+	<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	<item name="colorAccent">@color/colorAccent</item>
+</style>
+
+</resources>

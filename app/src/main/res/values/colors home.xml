@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- screen2_loginpage_admin_ colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__screen2_loginpage_admin__ek2_color">#FFFFFF</color>
+	<color name="ellipse_1_color">#67CFC2</color>
+	<color name="ellipse_2_color">#C1E8E4</color>
+	<color name="rectangle_4_color">#ffffff</color>
+	<color name="login_color">#082649</color>
+	<color name="password_color">#000000</color>
+	<color name="rectangle_5_color">#C1D6E9</color>
+	<color name="admin_color">#9F8989</color>
+
+
+
+<!-- screen3__loginpage_reg_users colors -->
+<color name="_bg__screen3__loginpage_reg_users_color">#FFFFFF</color>
+
+<!-- screen1_homepage colors -->
+
+<color name="_bg__screen1_homepage_color">#FFFFFF</color>
+<color name="rectangle_1_color">#082649</color>
+
+
+
+<!-- registration_2 colors -->
+<color name="_bg__registration_2_color">#FFFFFF</color>
+<color name="_bg__scrollbar_ek1_color">#F1F1F1</color>
+<color name="_bg__arrow_ek1_color">#000000</color>
+<color name="_bg__thumb_ek1_color">#C1C1C1</color>
+<color name="register_color">#082649</color>
+<color name="_bg__vuesax_bold_profile_add_ek1_color">#FAFAFA</color>
+<color name="sign_up_color">#E1FAE5</color>
+<color name="rectangle_15_color">#4667A5</color>
+<color name="profile_picture_color">#000000</color>
+
+		<!-- registration colors -->
+	<color name="_bg__registration_ek2_color">#FFFFFF</color>
+	<color name="living_city_color">#082649</color>
+	<color name="address_color">#000000</color>
+	<color name="ellipse_1_ek1_color">#24A0ED</color>
+
+		<!-- course_list_page colors -->
+		<color name="_bg__course_list_page_ek2_color">#F8F8F8</color>
+		<color name="rectangle_17_color">#ffffff</color>
+		<color name="_bg__group_3153_ek1_color">#000000</color>
+		<color name="rectangle_1703_color">#FFFFFF</color>
+		<color name="welcome_color">#B6B6B6</color>
+		<color name="ready_to_take_the_next_step_in_your_education_journey__register_now_to_apply_for_our_exciting_short_coursers__color">#DDDDDD</color>
+		<color name="_bg__frame_9_ek1_color">#082649</color>
+		<color name="branches_color">#2F4B4E</color>
+		<color name="web_design_color">#2F2D2C</color>
+		<color name="colombo_branch_color">#9B9B9B</color>
+		<color name="_bg__frame_15_ek1_color">#2265E8</color>
+		<color name="_bg__frame_18_ek1_color">#EC5050</color>
+
+		<!-- google_map colors -->
+		<color name="_bg__google_map_ek2_color">#FFFFFF</color>
+		<color name="_bg__vuesax_linear_gps_ek1_color">#000000</color>
+		<color name="view_in_google_maps_color">#2E2D2C</color>
+		<color name="ellipse_3_color">#67CFC2</color>
+		<color name="ellipse_4_color">#C1E8E4</color>
+		<color name="_bg__frame_3_ek17_color">#082649</color>
+		<color name="rectangle_1700_color">#092749</color>
+
+
+	<!-- course_registration_page colors -->
+	<color name="_bg__course_registration_page_color">#FFFFFF</color>
+	<color name="_bg__icon_arrow_left_ek1_color">#000000</color>
+	<color name="home_color">#082649</color>
+	<color name="rectangle_1711_color">#C2D7EA</color>
+	<color name="_bg____radio_checkbox_core_ek1_color">#EAFEF1</color>
+	<color name="text_color">#0F1728</color>
+	<color name="your_promotion_code_is_ach5142_color">#9B9B9B</color>
+
+<!-- screen7_notification colors -->
+<color name="_bg__screen7_notification_color">#FFFFFF</color>
+<color name="notifications_color">#082649</color>
+<color name="rectangle_13_color">#C1D6E9</color>
+
+<!-- screen8_admin_dashboard colors -->
+<color name="_bg__screen8_admin_dashboard_color">#FFFFFF</color>
+<color name="date_of_birth_color">#082649</color>
+<color name="kevin_perera_color">#000000</color>
+
+<!-- screen9_email_verification colors -->
+<color name="_bg__screen9_email_verification_color">#FFFFFF</color>
+<color name="_bg__undraw_newsletter_re_wrob_1_ek1_color">#000000</color>
+<color name="email_verification_color">#082649</color>
+
+<!-- screen10_confirmation colors -->
+<color name="_bg__screen10_confirmation_color">#FFFFFF</color>
+<color name="_bg__undraw_completed_m9ci_1_ek1_color">#000000</color>
+<color name="registration_sucessful___color">#082649</color>
+</resources>
